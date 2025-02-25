@@ -1,0 +1,232 @@
+{
+  "header": {
+    "book": "Book",
+    "blog": "Blog",
+    "logIn": "Log in",
+    "signUp": "Sign Up",
+    "hotDeals": "<b>Hot</b> Deals",
+    "services": "Services",
+    "destinations": "Destinations",
+    "country": "Country",
+    "city": "City",
+    "articles": "Articles",
+    "guide": "Guide",
+    "attractions": "Attractions",
+    "booking": "booking",
+    "exit": "Exit",
+    "trips": "Trips",
+    "myAccount": "My Account",
+    "selectYourCurrency": "Select Your Currency",
+    "languageModalTitle": "Select your Language and Region"
+  },
+  "modal": {
+    "email": "E-mail",
+    "password": "Password",
+    "country": "Country",
+    "lastName": "Last Name",
+    "firstName": "First Name",
+    "code": "Code",
+    "phoneNumber": "Phone Number",
+    "show": "Show",
+    "hide": "Hide",
+    "logInTitle": "Log in or register",
+    "continueWithPhone": "Continue With Phone",
+    "continueWithCode": "Continue With Code",
+    "logInText": "or use one of these options",
+    "singUpTitle": "Complete registration",
+    "singUpDescription": "Make sure it matches the name on your government ID.",
+    "singUpText": "<p>By selecting Agree and continue, I agree to <a href='/en/agreement' target='_blank' class='view-all'>Airbnb’s Terms of Service,</a><a href='/en/privacy-policy' target='_blank' class='view-all'>Payments Terms of Service.</a></p>",
+    "agreeAndContinue": "Agree And Continue",
+    "logIn": "Log In",
+    "forgotPassword": "Forgot Password?",
+    "sendLink": "Send Link",
+    "forgotPasswordText": "Enter the email address associated with your account, and we’ll email you a link to reset your password.",
+    "continueWithEmail": "Continue With Email"
+  },
+  "home": {
+    "bestDealsIn": "Best Deals In",
+    "exploreDeals": "Explore deals",
+    "search": "Search",
+    "ourServices": "Our Services",
+    "viewAll": "View all",
+    "viewMore": "View More",
+    "hide": "Hide",
+    "explore": "Explore",
+    "searchCountries": "Search countries",
+    "continent": "Continent",
+    "country": "Country",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "adults": "adults",
+    "children": "children",
+    "room": "room",
+    "whereAreYouGoing": "Where are you going?"
+  },
+  "footer": {
+    "hotels": "Hotels",
+    "forUsers": "For Users",
+    "siteRules": "Site Rules",
+    "cookies": "Cookies",
+    "privacyPolicy": "Privacy Policy",
+    "allDestinations": "All destinations",
+    "regions": "Regions",
+    "cities": "Cities",
+    "countries": "Countries",
+    "services": "Services",
+    "visa": "Visa",
+    "concierge": "Concierge",
+    "transfer": "Transfer",
+    "incurance": "Incurance",
+    "aboutVetourio": "About Vetourio",
+    "ourCompany": "Our company",
+    "whyWe": "Why we?",
+    "contacts": "Contacts",
+    "copyright": "Copyright ",
+    "allRightsReserved": "All rights reserved"
+  },
+  "faq": {
+    "commonQuestions": "Common questions"
+  },
+  "tabs": {
+    "about": "About Ventourio",
+    "contact": "Contact Information",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions"
+  },
+  "cookie": {
+    "consent_modal": {
+      "title": "Accept Cookies & Privacy Policy?",
+      "description": "This site uses first and third-party cookies to save information on your computer. If you do not want to receive cookies or would like to manage third-party cookies use the cookie settings below. You can also find additional information on <a href=\"/privacy-policy/\">Cookie Policy</a> page",
+      "primary_btn": "Accept Cookies",
+      "secondary_btn": "Edit settings"
+    },
+    "settings_modal": {
+      "title": "Your consent preferences",
+      "description": "The following panel allows you to customize your consent preferences for any tracking technology used to help us achieve the features and activities described below. To learn more about how these trackers help us and how they work, refer to the <a href=\"/privacy-policy/\">Cookie policy</a> You may review and change your choices at any time",
+      "save_settings_btn": "Save Settings",
+      "accept_all_btn": "Accept All",
+      "reject_all_btn": "Reject All"
+    }
+  },
+  "guide": {
+    "destinations": "Destinations",
+    "attractions": "attractions",
+    "latestArticles": "Latest Articles",
+    "viewAll": "View All",
+    "newsSubscription": "News Subscription",
+    "recommended": "Recommended",
+    "email": "E-mail",
+    "subscribe": "Subscribe",
+    "navigation": "Navigation",
+    "tags": "Tags",
+    "chooseCity": "Choose City",
+    "typeCity": "Type City",
+    "chooseCountry": "Choose Country",
+    "typeCountry": "Type Country",
+    "subscribeText": "By clicking “Subscribe” I agree with Terms and Conditions",
+    "title": "Explore more destinations",
+    "text": "Find things to do in cities around the world"
+  },
+  "profile": {
+    "tabs": {
+      "myAccount": "My Account",
+      "trips": "Trips",
+      "favourite": "Favourite",
+      "payment": "Payment",
+      "certificates": "Certificates"
+    },
+    "myAccount": {
+      "personalInfo": "Personal Info",
+      "myInfo": "My Info",
+      "uploadNewPhoto": "Upload new photo",
+      "legalName": "Legal Name",
+      "edit": "Edit",
+      "cancel": "Cancel",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "nationality": "Nationality",
+      "emailAddress": "Email Address",
+      "phoneNumber": "Phone Number",
+      "save": "Save",
+      "loginSecurity": "Login & security",
+      "password": "Password",
+      "oldPassword": "Old password",
+      "newPassword": "New password",
+      "confirmNewPassword": "Confirm New Password",
+      "savePassword": "Save Password",
+      "connect": "Connect",
+      "disconnect": "Disconnect",
+      "notConnected": "Not connected",
+      "connected": "Connected"
+    },
+    "favourite": "Favourite",
+    "certificates": {
+      "certificates": "Certificates",
+      "buy": "Buy",
+      "purchasedCertificates": "Purchased Certificates",
+      "modal": {
+        "description": "Check your e-mail address and we will sent credentials",
+        "title": "Purchase {price} certificate",
+        "email": "E-mail",
+        "confirm": "Confirm",
+        "done": "Done!",
+        "okay": "Okay",
+        "message": "We’ve sent creditatials to your e-mail address. Your certificate will appear in your account after we receive your payment."
+      }
+    },
+    "trips": {
+      "title": "Trips",
+      "future": "Future",
+      "been": "Where you've been",
+      "cancelled": "Cancelled trips"
+    }
+  },
+  "filter": {
+    "room_basis": {
+      "bed_and_breakfast": "Bed and Breakfast",
+      "continental_breakfast": "Continental Breakfast",
+      "all_inclusive": "All inclusive",
+      "full_board": "Full Board",
+      "half_board": "Half Board",
+      "room_only": "Room Only",
+      "bed_and_dinner": "Bed and Dinner"
+    },
+    "stars": {
+      "unrated": "Unrated",
+      "one": "1 star",
+      "two": "2 stars",
+      "three": "3 stars",
+      "four": "4 stars",
+      "five": "5 stars",
+      "six": "6 stars"
+    },
+    "hotel": {
+      "rooms_left": "Only {count} rooms left"
+    }
+  },
+  "sort": {
+    "by_price_asc": "Price (lowest first)",
+    "by_price_desc": "Price (highest first)",
+    "by_stars_asc": "Stars (lowest first)",
+    "by_stars_desc": "Stars (highest first)",
+    "by_rating_asc": "Rating (lowest first)",
+    "by_rating_desc": "Rating (highest first)",
+    "by_discount": "Discount first",
+    "by_title_asc": "Title (from A to Z)",
+    "by_title_desc": "Title (from Z to A)"
+  },
+  "review": {
+    "rating": {
+      "staff": "Staff",
+      "facilities": "Facilities",
+      "cleanliness": "Cleanliness",
+      "comfort": "Comfort",
+      "value_for_money": "Value for money",
+      "location": "Location",
+      "free_wifi": "Free WiFi"
+    }
+  }
+}
